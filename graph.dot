@@ -1,0 +1,6 @@
+digraph {
+  rankdir=LR;
+  Hello -> Friend -> RTMRT;
+  good -> job;
+  
+}
